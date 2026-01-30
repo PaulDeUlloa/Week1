@@ -11,6 +11,25 @@ Requirements:
 
 int main()
 {
+    cout << "Triangle:" << endl;
+    cout << "    *" << endl;
+    cout << "   ***" << endl;
+    cout << "  *****" << endl;
+
+    cout << "Square:" << endl;
+    cout << "   @@@" << endl;
+    cout << "   @ @" << endl;
+    cout << "   @@@" << endl;
+
+    cout << "Rectangle:" << endl;
+    cout << "   #####" << endl;
+    cout << "   #   #" << endl;
+    cout << "   #####" << endl;
+
+    cout << "Diamond:" << endl;
     cout << "Hello World!" << endl;
+    cout << "Hello World!" << endl;
+    cout << "Hello World!" << endl;
+
     return 0;
 }
