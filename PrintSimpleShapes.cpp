@@ -11,7 +11,10 @@ Requirements:
 
 int main()
 {
-    cout << "Triangle:" << endl;
+    cout << "Here are the Print Sample Shapes: " << endl;
+    cout << " \n";
+
+    cout << "Triangle: " << endl;
     cout << "    *" << endl;
     cout << "   ***" << endl;
     cout << "  *****" << endl;
@@ -27,9 +30,9 @@ int main()
     cout << "   #####" << endl;
 
     cout << "Diamond:" << endl;
-    cout << "Hello World!" << endl;
-    cout << "Hello World!" << endl;
-    cout << "Hello World!" << endl;
+    cout << "     %" << endl;
+    cout << "   %   %" << endl;
+    cout << "     %" << endl;
 
     return 0;
 }
